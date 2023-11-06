@@ -1,4 +1,4 @@
-Saudações, pessoal, Espero que estejam bem. Espero poder contribuir de alguma forma ⚡
+Saudações, pessoas, espero contribuir de alguma forma ⚡
 
 <!--
 **JhonnatanChaves/jhonnatanchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
